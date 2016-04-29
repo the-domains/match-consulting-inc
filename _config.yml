@@ -1,0 +1,28 @@
+name: Match Consulting Inc.
+favicon: null
+layout_spectrum: 0.7972171758301556
+typography_spectrum: 0.9223901811055839
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7043948376085609
+  lightness: 0.4321361694019288
+  saturation: 0.47797075542621315
+  rhythmicContrast: 0.8514260239899158
+purpose: []
